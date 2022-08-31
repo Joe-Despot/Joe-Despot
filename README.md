@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Joe-Despot
-- 👀 I’m interested in all things java
+- 👀 I’m interested in all things java and web dev
 - 🌱 I’m currently learning React, ReactNative
